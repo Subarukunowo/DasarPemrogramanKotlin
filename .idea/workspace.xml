@@ -4,27 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add MainApp.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnggotadalamString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Blok.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstrantsLiteral.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FLoatingPoint.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String+data.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTemplates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Underscore.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Val.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boolean.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/caesarChiper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversiExplisit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sandiMorse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringArrayCharacter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tipeData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/triplequotes.kt" afterDir="false" />
+    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add Anggoradalamstring.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalkulatorSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/perintahMasukan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ubahNilaiReadline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whiteSpaces.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,16 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.PenerapanStringKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.CharacterKt">
     <configuration name="AnggotadalamStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnggotadalamStringKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,15 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriplequotesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriplequotesKt" />
+    <configuration name="UbahNilaiReadlineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UbahNilaiReadlineKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CharacterKt" />
+        <item itemvalue="Kotlin.UbahNilaiReadlineKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.AnggotadalamStringKt" />
         <item itemvalue="Kotlin.RawStringKt" />
-        <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.TriplequotesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725339555797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Anggoradalamstring.kt">
+      <created>1725350277405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725350277405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starter Project" />
     <MESSAGE value="Add MainApp.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MainApp.kt" />
+    <MESSAGE value="Add Anggoradalamstring.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Anggoradalamstring.kt" />
   </component>
 </project>
