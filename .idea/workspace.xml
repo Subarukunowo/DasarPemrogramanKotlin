@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add Anggoradalamstring.kt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add Array.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Kotlin.CharacterKt">
@@ -141,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725939440034</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Array.kt">
+      <created>1725940187249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940187249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Array.kt">
+      <created>1725940360874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940360874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +171,7 @@
     <MESSAGE value="Starter Project" />
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Anggoradalamstring.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Anggoradalamstring.kt" />
+    <MESSAGE value="Add Array.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array.kt" />
   </component>
 </project>
