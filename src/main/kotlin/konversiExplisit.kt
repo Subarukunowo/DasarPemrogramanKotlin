@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     //conversion from the text to ASCII value
     c = 'a'
     i = c.toInt()
-    println("the caracter $c converted to its value for $i")
+    println("the character $c converted to its value for $i")
 
     //conversion from an ASCII value to text
     i = 98
