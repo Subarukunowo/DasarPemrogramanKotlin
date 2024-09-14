@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add Array.kt" />
+    <list default="true" id="60b22645-ec1e-464b-8865-7050c00f6981" name="Changes" comment="Add Array.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KonversiEkssplisitKt">
-    <configuration name="ConstrantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstrantsLiteralKt" />
+  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
+    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderscoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscoreKt" />
+    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.KonversiEkssplisitKt" />
+        <item itemvalue="Kotlin.StringTemplatesKt" />
+        <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.KonversiExplisitKt" />
+        <item itemvalue="Kotlin.KonversiEkssplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.UnderscoreKt" />
-        <item itemvalue="Kotlin.ConstrantsLiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726309015737</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Array.kt">
+      <created>1726309233663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309233663</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
